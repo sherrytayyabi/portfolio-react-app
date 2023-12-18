@@ -10,7 +10,7 @@ import Netflix from '../assets/DemoPhotos/netflix.webp';
 import DemoImg1 from '../assets/DemoPhotos/expensedemo.jpg';
 import DemoImg2 from '../assets/DemoPhotos/marketplacedemo.jpg';
 import DemoImg3 from '../assets/DemoPhotos/youtubedemo.jpg';
-import DemoImg4 from '../assets/DemoPhotos/netflixPhoto.jpg';
+import DemoImg4 from '../assets/DemoPhotos/netflixImage.png';
 import DemoImg5 from '../assets/DemoPhotos/tododemo.jpg';
 import DemoImg6 from '../assets/DemoPhotos/weatherapp.png';
 
