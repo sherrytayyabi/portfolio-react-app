@@ -4,6 +4,8 @@ import GitHub from '../assets/SkillsPhotos/github.png';
 import HTML from '../assets/SkillsPhotos/html.png';
 import JavaScript from '../assets/SkillsPhotos/javascript.png';
 import React from '../assets/SkillsPhotos/react.png';
+import Figma from '../assets/SkillsPhotos/figmaLogo.png';
+import Node from '../assets/SkillsPhotos/node-icon.png';
 
 
 const Skills = () => {
@@ -46,6 +48,18 @@ const Skills = () => {
                         <img className='w-20 mx-auto' src={React} alt="React icon" />
                         <p className='my-4'>React</p>
                     </div>
+                        
+                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                        <img className='w-20 mx-auto' src={Figma} alt="Figma" />
+                        <p className='my-4'>Figma</p>
+                    </div>
+
+                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                        <img className='w-20 mx-auto' src={Node} alt="node" />
+                        <p className='my-4'>Node</p>
+                    </div>
+                
+                
                 </div>
             </div>
         </div>
