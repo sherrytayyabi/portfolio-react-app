@@ -1,11 +1,10 @@
 {
   "files": {
-    "main.css": "/portfolio-react-app/static/css/main.ecf4a24b.css",
-    "main.js": "/portfolio-react-app/static/js/main.c31aa865.js",
+    "main.css": "/portfolio-react-app/static/css/main.b5fde76f.css",
+    "main.js": "/portfolio-react-app/static/js/main.eb10ca59.js",
     "static/media/netflixImage.png": "/portfolio-react-app/static/media/netflixImage.1345824ac8d16e4546cc.png",
     "static/media/youtubedemo.jpg": "/portfolio-react-app/static/media/youtubedemo.4e5ffeda2f7034ea977f.jpg",
     "static/media/marketplacedemo.jpg": "/portfolio-react-app/static/media/marketplacedemo.cbc41a71ad5744705f42.jpg",
-    "static/media/expensephoto.jpg": "/portfolio-react-app/static/media/expensephoto.b4e78090719c1a860d77.jpg",
     "static/media/node-icon.png": "/portfolio-react-app/static/media/node-icon.aca5f5f1cd9de98d4edc.png",
     "static/media/LoginPage.png": "/portfolio-react-app/static/media/LoginPage.1d6c1e553972c28cafc2.png",
     "static/media/ecommerce-photo.jpg": "/portfolio-react-app/static/media/ecommerce-photo.cb2813f4d341a5688ac5.jpg",
@@ -25,11 +24,11 @@
     "static/media/youtube.avif": "/portfolio-react-app/static/media/youtube.35db06eacf6fdd925a1a.avif",
     "static/media/cloudapplications.svg": "/portfolio-react-app/static/media/cloudapplications.77aee30f610bc7176ec112340b6a8a22.svg",
     "index.html": "/portfolio-react-app/index.html",
-    "main.ecf4a24b.css.map": "/portfolio-react-app/static/css/main.ecf4a24b.css.map",
-    "main.c31aa865.js.map": "/portfolio-react-app/static/js/main.c31aa865.js.map"
+    "main.b5fde76f.css.map": "/portfolio-react-app/static/css/main.b5fde76f.css.map",
+    "main.eb10ca59.js.map": "/portfolio-react-app/static/js/main.eb10ca59.js.map"
   },
   "entrypoints": [
-    "static/css/main.ecf4a24b.css",
-    "static/js/main.c31aa865.js"
+    "static/css/main.b5fde76f.css",
+    "static/js/main.eb10ca59.js"
   ]
 }
