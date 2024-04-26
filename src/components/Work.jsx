@@ -41,9 +41,12 @@ const Work = () => {
                             <div className="pt-8 text-center ">
                                 <button
                                     className="text-center rounded-lg px-4 py-3 m-2 bg-white text-gray-700 font-bold text-lg"
-                                    onClick={() => window.open(DemoImg7, '_blank')}
-                                >Demo</button>
-                                <a href="https://www.figma.com/file/XhE8kFaV3NCUMymKn71Fzw/LoginPage?type=design&node-id=0-1&mode=design" target="_blank" rel="noopener noreferrer">
+                                    onClick={() => window.open("https://drive.google.com/file/d/1BVi-HK410FeEN-4rBB9k_3pcf9vnWReN/view?usp=sharing", '_blank')}
+                                >
+                                    Demo
+                                </button>
+
+                                <a href="https://github.com/sherrytayyabi/mern-workout-app" target="_blank" rel="noopener noreferrer">
                                     <button>Link</button>
                                 </a>
                             </div>
