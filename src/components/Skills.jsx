@@ -5,7 +5,8 @@ import HTML from '../assets/SkillsPhotos/html.png';
 import JavaScript from '../assets/SkillsPhotos/javascript.png';
 import React from '../assets/SkillsPhotos/react.png';
 import Figma from '../assets/SkillsPhotos/figmaLogo.png';
-import Node from '../assets/SkillsPhotos/node-icon.png';
+import Node from '../assets/SkillsPhotos/node-icon.png'
+import Mongo from '../assets/SkillsPhotos/mongodb.png';
 
 
 const Skills = () => {
@@ -57,6 +58,11 @@ const Skills = () => {
                     <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
                         <img className='w-20 mx-auto' src={Node} alt="node" />
                         <p className='my-4'>Node</p>
+                    </div>
+
+                    <div className='shadow-md shadow-[#040c16] hover:scale-110 duration-500'>
+                        <img className='w-20 mx-auto' src={Mongo} alt="node" />
+                        <p className='my-4'>MongoDB</p>
                     </div>
                 
                 
