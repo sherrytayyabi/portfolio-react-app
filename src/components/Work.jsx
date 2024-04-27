@@ -14,6 +14,7 @@ import DemoImg4 from '../assets/DemoPhotos/netflixImage.png';
 import DemoImg5 from '../assets/DemoPhotos/LoginPage.png';
 
 
+
 const Work = () => {
   return (
     <div name='work' className='w-full md:h-screen text-gray-300 bg-[#0a192f]'>
@@ -25,10 +26,10 @@ const Work = () => {
           <p className='py-4'>Check out some of my recent work</p>
         </div>
 
+
         {/* Container */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 mb--10">
-
-
+        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-6 mb-8">
+          
 
           {/* Grid Item / MERN App */}
           <div
