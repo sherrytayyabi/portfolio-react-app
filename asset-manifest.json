@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio-react-app/static/css/main.b5fde76f.css",
-    "main.js": "/portfolio-react-app/static/js/main.7c550795.js",
+    "main.css": "/portfolio-react-app/static/css/main.f504fb85.css",
+    "main.js": "/portfolio-react-app/static/js/main.cd5f9ef1.js",
     "static/media/netflixImage.png": "/portfolio-react-app/static/media/netflixImage.1345824ac8d16e4546cc.png",
     "static/media/youtubedemo.jpg": "/portfolio-react-app/static/media/youtubedemo.4e5ffeda2f7034ea977f.jpg",
     "static/media/marketplacedemo.jpg": "/portfolio-react-app/static/media/marketplacedemo.cbc41a71ad5744705f42.jpg",
@@ -9,10 +9,10 @@
     "static/media/LoginPage.png": "/portfolio-react-app/static/media/LoginPage.1d6c1e553972c28cafc2.png",
     "static/media/ecommerce-photo.jpg": "/portfolio-react-app/static/media/ecommerce-photo.cb2813f4d341a5688ac5.jpg",
     "static/media/Sheheryar Tayyabi.jpg": "/portfolio-react-app/static/media/Sheheryar Tayyabi.6ea86ea032fa00d6f3fa.jpg",
+    "static/media/ecomm.webp": "/portfolio-react-app/static/media/ecomm.1a1d0f1b311cec2bbf16.webp",
     "static/media/react.png": "/portfolio-react-app/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/aws.png": "/portfolio-react-app/static/media/aws.95bdee6b9922c9b94fd5.png",
     "static/media/figmaPreview.png": "/portfolio-react-app/static/media/figmaPreview.a62992f01527cd8a6fda.png",
-    "static/media/meprogram.svg": "/portfolio-react-app/static/media/meprogram.3a32c18b82cb0b0fbd24f26d2a05e577.svg",
     "static/media/github.png": "/portfolio-react-app/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/portfolio-react-app/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/css.png": "/portfolio-react-app/static/media/css.69a82c2d9e45c933a9cb.png",
@@ -22,13 +22,12 @@
     "static/media/mongodb.png": "/portfolio-react-app/static/media/mongodb.2178943141ba7e7fae4e.png",
     "static/media/javascript.png": "/portfolio-react-app/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "static/media/youtube.avif": "/portfolio-react-app/static/media/youtube.35db06eacf6fdd925a1a.avif",
-    "static/media/cloudapplications.svg": "/portfolio-react-app/static/media/cloudapplications.77aee30f610bc7176ec112340b6a8a22.svg",
     "index.html": "/portfolio-react-app/index.html",
-    "main.b5fde76f.css.map": "/portfolio-react-app/static/css/main.b5fde76f.css.map",
-    "main.7c550795.js.map": "/portfolio-react-app/static/js/main.7c550795.js.map"
+    "main.f504fb85.css.map": "/portfolio-react-app/static/css/main.f504fb85.css.map",
+    "main.cd5f9ef1.js.map": "/portfolio-react-app/static/js/main.cd5f9ef1.js.map"
   },
   "entrypoints": [
-    "static/css/main.b5fde76f.css",
-    "static/js/main.7c550795.js"
+    "static/css/main.f504fb85.css",
+    "static/js/main.cd5f9ef1.js"
   ]
 }
