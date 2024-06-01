@@ -15,9 +15,15 @@ const About = () => {
             <p>Hi. I'm Sheheryar Tayyabi, nice to meet you. Please take a look around.</p>
           </div>
           <div>
-            <p>Hello, I'm Sheheryar Tayyabi, a passionate full-stack developer dedicated to creating digital experiences. I excel in crafting responsive web applications that prioritize user
-              satisfaction. With expertise in HTML, CSS, and JavaScript, I bring design concepts to life with dynamic functionality and
-              cross-browser compatibility. I implement maintainable code and continuously strive to stay updated with the latest technologies.</p>
+            <p>
+            Hello, I'm Sheheryar Tayyabi, a full-stack developer passionate about crafting digital experiences. 
+            Throughout my journey, I've acquired a diverse skill set, mastering HTML, CSS,
+            JavaScript, React, and Java, enabling me to create responsive and captivating web applications and fullstack programs.
+            On the backend, I leverage Node.js for server-side development and manage databases using MongoDB 
+            and SQL. GitHub is my go to version control tool, while Figma fuels my design endeavors.
+            I take great pride in writing code that's not just functional but also clean and maintainable. Always eager to embrace new technologies, 
+            I'm committed to continuous learning and sharpening my skills to stay at the forefront of innovation.
+             </p>
           </div>
         </div>
       </div>
